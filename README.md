@@ -7,12 +7,13 @@
 ```
 
 
-
-```
-> Currently working on an AI Image inference UI called rf26.
-```
-
-<sub> I work with a multitude of different ideas and technologies, but mostly in Bash and the Linux terminal.</sub>
+<sub>
+       > Currently working on an AI Image inference UI called rf26. <br />
+       I work with a multitude of different technologies, but mostly in Bash and the Linux terminal.
+       <br  />
+       <br / />
+       The world is in desperate need of open source programs, the world will advance faster if software is open to be viewed by anyone interested.
+</sub>
 
 
 <h4>Abilities</h4>
