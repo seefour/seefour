@@ -1,5 +1,5 @@
-<h1 align="center">I'm seafour, (c4, 53a4).</h1>
-<h3 align="center">Bash Enthusiast.</h3>
+<h1 align="left">I'm seafour (C4).</h1>
+<h3 align="left">Bash Enthusiast.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
