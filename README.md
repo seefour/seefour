@@ -1,5 +1,4 @@
 <h1 align="left">I'm seafour ( C4 )</h1>
-<h4 align="left">Bash and Linux man</h4>
 
 <h4 align="left">Abilities</h4>
 
