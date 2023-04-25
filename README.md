@@ -12,7 +12,7 @@
 > Currently working on an AI Image inference UI called rf26.
 ```
 
-
+<sub> I work with a multitude of different ideas and technologies, but mostly in Bash and the Linux terminal.</sub>
 
 
 <h4>Abilities</h4>
