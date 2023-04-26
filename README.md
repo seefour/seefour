@@ -1,11 +1,11 @@
-```                                        
+<!--```                                        
 █████████          █████████          █████████
 ██                 ██                 ██     ██       
 █████████    ██    ███████      ██    █████████       |  █
        ██          ██                 ██     ██       |__█
 █████████          █████████          ██     ██          █
-```
-
+```-->
+[![MasterHead](https://cdn.discordapp.com/attachments/682318783767248962/1100841499861729381/Advanced_architecture_that_looks_dystopian_and_out_of_this_world__psychedelic__bright__hazy__in_the__Seed-6401568_Steps-50_Guidance-7.5.jpeg)]()
 
 ```
 The world is in desperate need of open source programs,
