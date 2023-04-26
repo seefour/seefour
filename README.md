@@ -5,7 +5,7 @@
        ██          ██                 ██     ██       |__█
 █████████          █████████          ██     ██          █           !> Read and Copy away lads.
 ```-->
-[![MasterHead](https://cdn.discordapp.com/attachments/682318783767248962/1100843931677245550/Untitled-1.svg)]()
+[![MasterHead](https://cdn.discordapp.com/attachments/682318783767248962/1100859943621513267/Untitled-2.svg)]()
 
 
 <h2 align="center">Tech Stack</h2>
